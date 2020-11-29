@@ -1,5 +1,6 @@
 Command Prompt is a command line interpreter application available in most Windows operating systems. It's used to execute entered commands. 
 Most of those commands automate tasks via scripts and batch files, perform advanced administrative functions, and troubleshoot or solve certain kinds of Windows issues.
+<pre>
 > systeminfo
 > vol
 > ver
@@ -21,4 +22,4 @@ Most of those commands automate tasks via scripts and batch files, perform advan
 > type abc.txt [watch file data]
 > ping google.com
 > ipconfig / all
-
+</pre>
